@@ -1,0 +1,6 @@
+{
+  "name": "Alpha Gym & Fitness",
+  "description": "Alpha Gym & Fitness offers expert coaching, premium equipment, personal training, group classes, and flexible memberships designed to help you reach your goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
